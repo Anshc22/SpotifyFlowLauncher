@@ -1,0 +1,12 @@
+{
+    "ID": "com.spotify.flowlauncher.plugin",
+    "ActionKeyword": "sp",
+    "Name": "Spotify",
+    "Description": "Control your Spotify client from Flow Launcher. Search tracks, artists, albums and control playback.",
+    "Author": "Your Name",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://spotify.com",
+    "IcoPath": "spotify_premium_icon.png",
+    "ExecuteFileName": "main.py"
+  }
