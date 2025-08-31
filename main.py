@@ -18,8 +18,8 @@ from urllib.parse import urlparse, parse_qs
 
 class SpotifyPlugin:
     def __init__(self):
-        self.client_id = "d4773b3d484f4dd1b3aa99be2fd3f94b"
-        self.client_secret = "db8c17bbc5104c7f80c3f5d4a5093dcf"
+        self.client_id = "Enter Your Client ID"
+        self.client_secret = "Enter Your Client Secret"
         self.redirect_uri = "http://localhost:8080/callback"
         self.base_url = "https://api.spotify.com/v1"
 
